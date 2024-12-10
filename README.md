@@ -5,7 +5,7 @@ O objetivo da ação é criar uma página web dedicada à divulgação das ativi
 ## 🖥️ Demonstração
 
 Você pode visualizar como esta o site seguindo este link:
-[text](https://sararaquel0.github.io/ImagemAcao/#inicio)
+[IM&A](https://sararaquel0.github.io/ImagemAcao/#inicio)
 
 ## 📋 Como Utilizar
 
