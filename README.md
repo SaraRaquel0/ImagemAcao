@@ -5,3 +5,18 @@ O objetivo da ação é criar uma página web dedicada à divulgação das ativi
 ## 🖥️ Demonstração
 
 Você pode visualizar como esta o site seguindo este link:
+[text](https://sararaquel0.github.io/ImagemAcao/#inicio)
+
+## 📋 Como Utilizar
+
+1. **Clone o Repositório**
+
+   ```bash
+   git clone https://github.com/SaraRaquel0/ImagemAcao
+   ```
+
+2. **Abra no seu editor de código favorito (VS Code, Sublime, etc.).**
+
+3. **Edite o conteúdo**
+
+   - Substitua as imagens, textos e informações nas respectivas seções do código.
